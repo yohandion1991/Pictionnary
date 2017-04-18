@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorNoir">#9e000000</color>
+    <color name="colorGris">#f0343434</color>
+    <color name="colorViolet">#bfdd1cff</color>
+    <color name="colorBleu">#bf0f19d9</color>
+    <color name="colorBleuClair">#bf00a6ff</color>
+    <color name="colorJaune">#ffdd00</color>
+    <color name="colorOrange">#bfff0303</color>
+    <color name="colorRouge">#bfff0000</color>
+    <color name="colorRose">#bfca1372</color>
+    <color name="colorMarron">#4b2b00</color>
+    <color name="colorVert">#03b232</color>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="clicked_gray">#80e0e0e0</drawable>
+
+</resources>
